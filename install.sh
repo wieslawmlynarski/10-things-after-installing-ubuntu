@@ -32,9 +32,13 @@ fi
 mdkir ~/APPS
 mdkir ~/APPS/ide
 mdkir ~/APPS/web
-
+##sublime
 wget -P ~/APPS  http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2%20x64.tar.bz2
+#skype
 
+wget http://www.skype.com/go/getskype-linux-beta-ubuntu-64 -O skype-ubuntu-precise_4.3.0.37-1_i386.deb
+sudo dpkg -i skype-ubuntu-precise_4.3.0.37-1_i386.deb && rm -f skype-ubuntu-precise_4.3.0.37-1_i386.deb
 
+##
 
 
