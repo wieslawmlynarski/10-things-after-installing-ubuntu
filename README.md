@@ -13,6 +13,3 @@ What it does.
 - vlc
 - oracle-java8
 - nodejs
-
-
-- Updates the system
